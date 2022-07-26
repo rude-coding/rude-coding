@@ -1,4 +1,4 @@
-<h1 align="center">Hello , My name is Rude</h1>
+<h1 align="center">Hello, My name is Rude</h1>
 <h3 align="center">A software developer from germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rude-coding&label=Profile%20views&color=0e75b6&style=flat" alt="rude-coding" /> </p>
